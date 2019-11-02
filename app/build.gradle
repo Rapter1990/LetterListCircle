@@ -51,4 +51,7 @@ dependencies {
 
     // TODO 3 ) CircleImageView Library Defined
     implementation 'de.hdodenhof:circleimageview:3.0.1'
+
+    // TODO 4 ) CircleLayout Library Defined
+    implementation 'io.github.francoiscampbell:circlelayout:0.3.0'
 }
